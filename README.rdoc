@@ -1,0 +1,3 @@
+== Start faye server
+
+rackup faye.ru -E production -s thin
